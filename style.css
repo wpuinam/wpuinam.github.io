@@ -103,12 +103,6 @@
 	font-family: Montserrat;
 }
 
-.latar h2 a:hover {
-	background-color: #696969;
-	padding: 10px 10px;
-	box-sizing: border-box;
-}
-
 .video {
  	height: 80vh;
  	background-image: url(image/pc.jpg);
